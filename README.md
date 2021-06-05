@@ -6,9 +6,11 @@
 
 [Pluck](https://github.com/simplygreatwork/pluck) is a programming language construction kit. Get started with WebAssembly text format syntax and macros.
 
-[Godsend](https://github.com/simplygreatwork/godsend) is a simple and eloquent workflow for streaming messages to micro-services.
+[Godsend](https://github.com/simplygreatwork/godsend) is a simple and eloquent workflow for streaming messages to micro-services with [examples](https://github.com/simplygreatwork/godsend-examples/tree/master/examples).
 
 [Goodshow](https://github.com/simplygreatwork/goodshow) is an entity-component user interface library for WebGL - leaning toward Material Design.
+
+[Goodshow DOM](https://github.com/simplygreatwork/goodshow-dom) is an entity-component user interface library for DOM - leaning toward Material Design. It's an incomplete port of the WebGL edition of Goodshow.
 
 <!--
 **simplygreatwork/simplygreatwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
