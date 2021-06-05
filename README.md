@@ -1,4 +1,14 @@
-### Welcome!
+### Welcome! These are some recent projects I've made.
+
+[Textbase](https://github.com/simplygreatwork/textbase) is a clean, simple, composable, event-driven, rich text editor framework for the web which can be extended with custom block and inline elements in a non-opinionated manner.
+
+[Obvious](https://github.com/simplygreatwork/obvious) is a small, hackable, optimized framework for learning quantum computing with examples.
+
+[Pluck](https://github.com/simplygreatwork/pluck) is a programming language construction kit. Get started with WebAssembly text format syntax and macros.
+
+[Godsend](https://github.com/simplygreatwork/godsend) is a simple and eloquent workflow for streaming messages to micro-services.
+
+[Goodshow](https://github.com/simplygreatwork/goodshow) is an entity-component user interface library for WebGL - leaning toward Material Design.
 
 <!--
 **simplygreatwork/simplygreatwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
