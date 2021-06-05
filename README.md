@@ -2,7 +2,7 @@
 
 [Textbase](https://github.com/simplygreatwork/textbase) is a clean, simple, composable, event-driven, rich text editor framework for the web which can be extended with custom block and inline elements in a non-opinionated manner.
 
-[Obvious](https://github.com/simplygreatwork/obvious) offers a way to learn quantum computing using a small, hackable, optimized framework with examples.
+[Obvious](https://github.com/simplygreatwork/obvious) offers a way to learn quantum computing using a small, hackable, optimized framework with [examples](https://github.com/simplygreatwork/obvious/tree/master/examples).
 
 [Pluck](https://github.com/simplygreatwork/pluck) is a programming language construction kit. Get started with WebAssembly text format syntax and macros.
 
