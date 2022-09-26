@@ -1,5 +1,7 @@
 ### Welcome! These are some recent projects I've made.
 
+[Vanilla](https://github.com/simplygreatwork/vanilla) is super clean libraries for reactive bus messaging, url routing, and components for client-side JavaScript.
+
 [Textbase](https://github.com/simplygreatwork/textbase) is a clean, simple, composable, event-driven, rich text editor framework for the web which can be extended with custom block and inline elements in a non-opinionated manner.
 
 [Obvious](https://github.com/simplygreatwork/obvious) offers a way to learn quantum computing using a small, hackable, optimized framework with [examples](https://github.com/simplygreatwork/obvious/tree/master/examples).
