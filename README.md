@@ -10,6 +10,8 @@
 
 [Callbag Cookbook](https://github.com/simplygreatwork/callbag-cookbook) includes examples of using reactive, asynchronous data streams in the browser (as callbags). This is an [older repository](https://github.com/simplygreatwork/streaming) dabbling with callbags.
 
+[Inverted CSS](https://github.com/simplygreatwork/inverted-css) is an a CSS-in-JS library which flattens CSS to be property first, then selectors, then media queries. So, for example, you could group every background color adjustment as a single logical group.
+
 [Godsend](https://github.com/simplygreatwork/godsend) is a simple and eloquent workflow for streaming messages to micro-services with [examples](https://github.com/simplygreatwork/godsend-examples/tree/master/examples).
 
 [Goodshow](https://github.com/simplygreatwork/goodshow) is an entity-component user interface library for WebGL - leaning toward Material Design.
