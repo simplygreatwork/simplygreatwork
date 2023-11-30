@@ -12,6 +12,8 @@
 
 [Inverted CSS](https://github.com/simplygreatwork/inverted-css) is an a CSS-in-JS library which flattens CSS to be property first, then selectors, then media queries. So, for example, you could group every background color adjustment as a single logical group.
 
+[Ordering Tree](https://github.com/simplygreatwork/ordering-tree) is a very simple kernel, the basis of a minimum viable product, for an ordering system.
+
 [Godsend](https://github.com/simplygreatwork/godsend) is a simple and eloquent workflow for streaming messages to micro-services with [examples](https://github.com/simplygreatwork/godsend-examples/tree/master/examples).
 
 [Goodshow](https://github.com/simplygreatwork/goodshow) is an entity-component user interface library for WebGL - leaning toward Material Design.
