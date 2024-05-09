@@ -1,6 +1,6 @@
 ### Welcome! These are some recent projects I've made.
 
-[Heroic](https://github.com/simplygreatwork/geroic) has super clean tiny libraries for reactive bus messaging, url routing, components, and state for client-side JavaScript views.
+[Heroic](https://github.com/simplygreatwork/heroic) has super clean tiny libraries for reactive bus messaging, url routing, components, and state for client-side JavaScript views.
 
 [Textbase](https://github.com/simplygreatwork/textbase) is a clean, simple, composable, event-driven, rich text editor framework for the web which can be extended with custom block and inline elements in a non-opinionated manner.
 
